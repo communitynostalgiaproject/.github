@@ -1,7 +1,9 @@
 # Community Nostalgia Initiative
 ## Welcome to the Community Nostalgia Initiative
 ### Based out of Cornell University's Affect and Cognition Lab
+
 ---
+
 ## Overview
 The Community Nostalgia Initiative is a pioneering project rooted in Cornell University's esteemed Affect and Cognition Lab. Our mission is to deepen the understanding of nostalgia and its impact on the human psyche. This is a collaborative, community-driven effort aimed at collecting and analyzing first-hand stories of nostalgic experiences from people across various backgrounds and communities.
 ## Our Mission
