@@ -7,6 +7,6 @@ The Community Nostalgia Initiative is a pioneering project rooted in Cornell Uni
 - **Fostering Understanding**: To explore the multifaceted nature of nostalgia, and how it shapes our memories, emotions, and identities.
 - **Community Engagement**: Encourage public participation in sharing personal nostalgic stories, creating a rich tapestry of experiences.
 - **Research and Innovation**: Utilize these narratives to further academic research in the field of affective science and cognitive psychology.
-- 
+  
 ## Current Projects
 - We are currently in the process of building a website where users from around the globe can share their nostalgic food experiences.
